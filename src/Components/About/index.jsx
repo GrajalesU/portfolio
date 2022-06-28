@@ -25,7 +25,7 @@ const About = () => {
                         <a href="https://www.linkedin.com/in/juan-manuel-grajales-urquijo-8aa78b225">
                             <img src="LI_mobile.png" alt="LinkedIn logo" />
                         </a>
-                        <a href="#">
+                        <a href="./cv_JuanManuelGrajales.pdf" target="_blank" >
                             <img src="cv_mobile.png" alt="curriculum vitae logo" />
                         </a>
                     </div>      
