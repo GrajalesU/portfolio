@@ -1,0 +1,46 @@
+ {
+  "projects":[
+  {
+    "name": "¿Qué prefieres?",
+    "description": "Aplicación para preguntar y responder entre dos opciones, donde se puede ver el porcentaje de votaciones entre ambas respuestas.",
+    "img": "./que_prefieres.jpg",
+    "tecnologies":[ "React", "Bootstrap", "mongoDB","node","Express"],
+    "github": "https://github.com/juangrajalesu/Que-prefieres-y-API"
+  },
+  {
+    "name": "Generador de sitios web",
+    "description": "Contributor en proyecto sobre aplicación web que utiliza servicios de la nube para generar páginas web genéricas basado en la arquitectura multitenant, donde los clientes pueden mostrar sus productos y los administradores pueden gestionar los clientes que hay en el sistema.",
+    "img": "./konectapp_1.jpg",
+    "tecnologies":[ "React", "AWS", "TailwindCSS"],
+    "github": "https://github.com/pikonecta/pikonecta"
+  },
+  {
+    "name": "Gestión de stock de cafetería",
+    "description": "Enlistador de productos de una cafetería donde se puede gestionar el stock y además entrega estadísticas sobre los productos con más stock y los productos más vendidos",
+    "img": "./Stock_cafe.jpg",
+    "tecnologies":[ "React", "TailwindCSS", "MySQL","node","Express"],
+    "github": "https://github.com/GrajalesU/cafeter-app"
+  },
+  {
+    "name": "Este portafolio",
+    "description": "La creación de este portafolio también hace parte de mis proyectos y si deseas ver el código, dando click puedes hacerlo",
+    "img": "./portfolio.jpg",
+    "tecnologies":[ "React","CSS"],
+    "github": "https://github.com/GrajalesU/cafeter-app"
+  },
+  {
+    "name": "Tienda de ropa",
+    "description": "Tienda online donde se muestran productos, sus respectivos precios, donde se pueden  crear, modificar o eliminar.",
+    "img": "./tienda_de_ropa.jpg",
+    "tecnologies":[ "React", "Bootstrap"],
+    "github": "https://github.com/juangrajalesu/tienda_de_ropa"
+  },
+  {
+    "name": "API de Tienda de ropa",
+    "description": "API rest que permite a la app de la tienda de ropa almacenar sus productos y gestionarlos.",
+    "img": "",
+    "tecnologies":[ "mongoDB","node","Express"],
+    "github": "https://github.com/juangrajalesu/api_tienda_de_ropa"
+  }
+  ]
+}
