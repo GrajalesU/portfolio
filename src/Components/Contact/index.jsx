@@ -35,7 +35,7 @@ const ContactMe = () => {
                     <p>Gracias por comunicarte conmigo, lo más pronto posible te estaré contactando, espero que puedan salir buenas oportunidades gracias a esto</p>
                 </div> : 
                 <>
-                    <p>Llena el siguiente formulario o envía un email a <a href="correo">mi correo 📧</a></p>
+                    <p>Llena el siguiente formulario o envía un email a <a href="juan.grajalesu@gmail.com">mi correo 📧</a></p>
                     <form action="post" ref={form} onSubmit={handleSubmit}>
                         <label htmlFor="name">Nombre *</label>
                         <input type="text" name="name" placeholder="Introduce tu nombre" />
