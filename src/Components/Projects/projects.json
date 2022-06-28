@@ -26,7 +26,7 @@
     "description": "La creación de este portafolio también hace parte de mis proyectos y si deseas ver el código, dando click puedes hacerlo",
     "img": "./portfolio.jpg",
     "tecnologies":[ "React","CSS"],
-    "github": "https://github.com/GrajalesU/cafeter-app"
+    "github": "https://github.com/GrajalesU/portfolio"
   },
   {
     "name": "Tienda de ropa",

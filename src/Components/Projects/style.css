@@ -102,6 +102,10 @@ h2{
   .project_item img{
     min-height: 300px;
   }
+
+  .project_list{
+    box-shadow: 0 15px 25px 0 hsla(245, 75%, 52%, .11);
+  }
   
  .project_list li{
   flex: 0 0 40%;
