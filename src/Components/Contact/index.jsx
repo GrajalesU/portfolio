@@ -32,7 +32,7 @@ const ContactMe = () => {
             
             {messageSended ? 
                 <div className="write_machine">
-                    <p>Gracias por comunicarte conmigo, lo más pronto posible te estaré contactando, espero que puedan salir buenas oportunidades gracias a esto</p>
+                    <p>Gracias por contactarme. Lo más pronto posible estaré comunicandome contigo, espero que puedan salir buenas oportunidades gracias a esto.</p>
                 </div> : 
                 <>
                     <p>Llena el siguiente formulario o envía un email a <a href="juan.grajalesu@gmail.com">mi correo 📧</a></p>
